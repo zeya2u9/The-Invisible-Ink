@@ -14,13 +14,12 @@ This repository contains the codebase, datasets, and supporting scripts used to 
 
 The repository is organized to reflect the stages of the pipeline:
 
-* `assets/` — Figures and diagrams used in the paper
+* `assets/` — Figures and diagrams
 * `data/` — Hashes and metadata
 * `static_analysis/` — Static APK analysis components
 * `dynamic_analysis/` — Execution and logging on real devices
 * `validation/` — Static and dynamic validation 
-* `analysis/` — Measurement and analysis modules
-* `results/` — Generated figures and tables
+* `analysis/` — Measurement and analysis modules alongwith Jupyter notebooks to generate plots including malware evolution plots (sankey diagrams)
 
 ---
 
