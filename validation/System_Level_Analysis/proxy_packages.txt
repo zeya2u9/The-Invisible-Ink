@@ -1,0 +1,14 @@
+libv2ray
+okhttp3.internal.proxy
+com.giamping.socks5
+io.netty.handler.proxy
+org.littleshoot.proxy.impl
+com.gorillasoftware.everyproxy.service.http
+com.purevpn.proxy.core
+com.purevpn.proxy
+okhttp3.internal.proxy
+io.oxylabs.proxy
+io.oxylabs.proxymanager
+com.didsoft.myiphide
+net.typeblog.socks
+com.huawei.hms.ads.identifier
